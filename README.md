@@ -28,7 +28,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="30" height="30"/>
 </p3>
 
+
+
 <div align="center">
   <img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg" />
+
+ [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=Bubinoso&theme=dracula&hcolor=9141ac)](https://github.com/KasRoudra/github-stats-card)
 </div>
 </div>
