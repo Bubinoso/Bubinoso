@@ -29,10 +29,11 @@
 </p3>
 
 
-
+<h1>📊 Statistics</h1>
 <div align="center">
-  <img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg" />
 
  [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=Bubinoso&theme=dracula&hcolor=9141ac)](https://github.com/KasRoudra/github-stats-card)
 </div>
+
+<img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg" align="center"/>
 </div>
