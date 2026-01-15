@@ -3,7 +3,7 @@
   <h1>🧑‍💻 Ramon Luiz Camolez</h1>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramon-camolez-1ba73026a)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Bubinoso)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ramoncmlz
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luizcamolez@gmail.com)
   ![Profile Views](https://komarev.com/ghpvc/?username=Bubinoso&color=0e75b6&style=flat)
 </p1>
@@ -32,7 +32,7 @@
 <h1>📊 Statistics</h1>
 <div align="center">
 
- [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=Bubinoso&theme=dracula&hcolor=9141ac)](https://github.com/KasRoudra/github-stats-card)
+ [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=ramoncmlz&theme=dracula&hcolor=9141ac)](https://github.com/KasRoudra/github-stats-card)
 </div>
 
 <img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg" align="center"/>
